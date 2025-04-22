@@ -115,7 +115,7 @@ class Sentiment_Analysis:
         plt.grid(True, linestyle='--', alpha=0.5)
         
         """Save figure"""
-        plt.savefig("CE2-A5_Federico_Durante.pdf")
+        plt.savefig("Sentiment_Analysis.pdf")
         
         """Show the plot"""
         plt.show()
